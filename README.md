@@ -1,0 +1,2 @@
+# Syneto.collab
+internship
